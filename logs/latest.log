@@ -1,0 +1,238 @@
+[10:52:28] [ServerMain/WARN]: [oshi.util.platform.windows.WmiQueryHandler] COM exception: Invalid Class Win32_Processor
+[10:52:28] [ServerMain/WARN]: [oshi.util.platform.windows.WmiQueryHandler] COM exception: Invalid Class Win32_VideoController
+[10:52:28] [ServerMain/WARN]: [oshi.util.platform.windows.WmiQueryHandler] COM exception: Invalid Class Win32_PhysicalMemory
+[10:52:32] [ServerMain/INFO]: Building unoptimized datafixer
+[10:52:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:52:38] [ServerMain/INFO]: Loaded 7 recipes
+[10:52:40] [Server thread/INFO]: Starting minecraft server version 1.19
+[10:52:40] [Server thread/INFO]: Loading properties
+[10:52:40] [Server thread/INFO]: This server is running Paper version git-Paper-40 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 0d79b86)
+[10:52:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:52:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:52:41] [Server thread/INFO]: Default game type: SURVIVAL
+[10:52:41] [Server thread/INFO]: Generating keypair
+[10:52:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:52:41] [Server thread/INFO]: Using default channel type
+[10:52:41] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[10:52:41] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[10:52:43] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v2.4.1-SNAPSHOT-239;def84a8
+[10:52:45] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@29051a42]
+[10:52:45] [Server thread/INFO]: [MovingChannel] Loading MovingChannel v1.0
+[10:52:45] [Server thread/INFO]: [FastAsyncVoxelSniper] Loading FastAsyncVoxelSniper v2.5.0
+[10:52:45] [Server thread/INFO]: [TerminatorPlus] Loading TerminatorPlus v3.2-BETA
+[10:52:45] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.4.2
+[10:52:45] [Server thread/INFO]: [ViaVersion] ViaVersion 4.4.2 is now loaded, injecting!
+[10:52:46] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[10:52:46] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[10:52:46] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[10:52:46] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.4.2
+[10:52:46] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[10:52:46] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[10:52:46] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[10:52:46] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[10:52:46] [Via-Mappingloader-7/INFO]: [ViaVersion] Loading 1.17 -> 1.18 mappings...
+[10:52:46] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[10:52:46] [Via-Mappingloader-8/INFO]: [ViaVersion] Loading 1.18 -> 1.19 mappings...
+[10:52:46] [Via-Mappingloader-11/INFO]: [ViaBackwards] Loading 1.12 -> 1.11 mappings...
+[10:52:46] [Via-Mappingloader-10/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
+[10:52:46] [Via-Mappingloader-9/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
+[10:52:46] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[10:52:47] [Via-Mappingloader-9/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
+[10:52:47] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.8-SNAPSHOT+2198-9988f9b
+[10:52:47] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.3.1-b861
+[10:52:47] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.30-SNAPSHOT (build 2597)
+[10:52:47] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v14.2.3
+[10:52:47] [Server thread/INFO]: [Denizen] Loading Denizen v1.2.5-SNAPSHOT (build 1772-REL)
+[10:52:47] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v2.16.0
+[10:52:47] [Via-Mappingloader-9/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
+[10:52:47] [Via-Mappingloader-3/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
+[10:52:47] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
+[10:52:47] [Via-Mappingloader-4/INFO]: [ViaBackwards] Loading 1.18 -> 1.17 mappings...
+[10:52:47] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
+[10:52:47] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
+[10:52:47] [Via-Mappingloader-2/INFO]: [ViaBackwards] Loading 1.19 -> 1.18 mappings...
+[10:52:47] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (670 ms).
+[10:52:47] [Server thread/INFO]: [Shopkeepers] Loading config.
+[10:52:47] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[10:52:48] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[10:52:48] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
+[10:52:48] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[10:52:48] [Server thread/INFO]: [MythicMobs] Loading MythicMobs v5.1.0-f32e809c
+[10:52:48] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[10:52:48] [Server thread/INFO]: [WorldGuardEvents] Loading WorldGuardEvents v1.18.1
+[10:52:48] [Server thread/INFO]: [ItemEdit] Loading ItemEdit v3.0.3
+[10:52:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:52:48] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.4.1-SNAPSHOT-239;def84a8
+[10:52:48] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[10:52:48] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[10:52:48] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[10:52:48] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[10:52:48] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_19_R1.PaperweightFaweAdapter as the Bukkit adapter
+[10:52:51] [Server thread/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 39 build(s) out of date.
+You are running build 239, the latest version is build 278.
+Update at https://www.spigotmc.org/resources/13932/
+[10:52:51] [Server thread/INFO]: Preparing level "world"
+[10:52:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:52:52] [Server thread/INFO]: Time elapsed: 244 ms
+[10:52:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:52:52] [Server thread/INFO]: Time elapsed: 81 ms
+[10:52:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:52:52] [Server thread/INFO]: Time elapsed: 73 ms
+[10:52:52] [Server thread/INFO]: [MovingChannel] Enabling MovingChannel v1.0
+[10:52:52] [Server thread/WARN]: [MovingChannel] Loaded class net.raidstone.wgevents.events.RegionEnteredEvent from WorldGuardEvents v1.18.1 which is not a depend or softdepend of this plugin.
+[10:52:52] [Server thread/WARN]: [MovingChannel] Loaded class net.nuggetmc.tplus.api.event.BotDamageByPlayerEvent from TerminatorPlus v3.2-BETA which is not a depend or softdepend of this plugin.
+[10:52:52] [Server thread/ERROR]: [MovingChannel] MovingChannel v1.0 attempted to register an invalid EventHandler method signature "public void me.toto7735.movingchannel.listeners.Listeners.onBotDamageByPlayer(net.nuggetmc.tplus.api.event.BotDamageByPlayerEvent)" in class me.toto7735.movingchannel.listeners.Listeners
+[10:52:52] [Server thread/INFO]: [FastAsyncVoxelSniper] Enabling FastAsyncVoxelSniper v2.5.0
+[10:52:53] [Server thread/INFO]: [TerminatorPlus] Enabling TerminatorPlus v3.2-BETA
+[10:52:53] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.4.2
+[10:52:53] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.4.2
+[10:52:53] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.8-SNAPSHOT+2198-9988f9b
+[10:52:53] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[10:52:53] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[10:52:53] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[10:52:53] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[10:52:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[10:52:53] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[10:52:53] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[10:52:53] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[10:52:53] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[10:52:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[10:52:53] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[10:52:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[10:52:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[10:52:53] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[10:52:53] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[10:52:53] [Server thread/INFO]: [WorldGuard] Loading region data...
+[10:52:53] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[10:52:53] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.1-b861" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[10:52:53] [Server thread/INFO]: [Multiverse-Core] ¡×aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[10:52:54] [Server thread/INFO]: Preparing start region for dimension minecraft:mapload
+[10:52:54] [Server thread/INFO]: Time elapsed: 81 ms
+[10:52:54] [Server thread/INFO]: [WorldGuard] (mapload) TNT ignition is PERMITTED.
+[10:52:54] [Server thread/INFO]: [WorldGuard] (mapload) Lighters are PERMITTED.
+[10:52:54] [Server thread/INFO]: [WorldGuard] (mapload) Lava fire is PERMITTED.
+[10:52:54] [Server thread/INFO]: [WorldGuard] (mapload) Fire spread is UNRESTRICTED.
+[10:52:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'mapload'
+[10:52:54] [Server thread/INFO]: Preparing start region for dimension minecraft:map
+[10:52:54] [Server thread/INFO]: Time elapsed: 63 ms
+[10:52:54] [Server thread/INFO]: [WorldGuard] (map) TNT ignition is PERMITTED.
+[10:52:54] [Server thread/INFO]: [WorldGuard] (map) Lighters are PERMITTED.
+[10:52:54] [Server thread/INFO]: [WorldGuard] (map) Lava fire is PERMITTED.
+[10:52:54] [Server thread/INFO]: [WorldGuard] (map) Fire spread is UNRESTRICTED.
+[10:52:54] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'map'
+[10:52:54] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[10:52:54] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[10:52:54] [Server thread/INFO]: [Multiverse-Core] Version 4.3.1-b861 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[10:52:54] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.30-SNAPSHOT (build 2597)
+[10:52:55] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v14.2.3
+[10:52:55] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mDetected Minecraft [33;1mv1_19_R1[32;1m, using [33;1mMappingSpigotSkinRefresher[32;1m.[0;39m
+[10:52:56] [Server thread/INFO]: [SkinsRestorer] [ACF] Enabled Asynchronous Tab Completion Support!
+[10:52:56] [Server thread/INFO]: [Denizen] Enabling Denizen v1.2.5-SNAPSHOT (build 1772-REL)
+[10:52:56] [Server thread/INFO]: [Denizen] Running on java version: 17.0.3.1
+[10:52:56] [Server thread/INFO]: [Denizen] Running on fully supported Java 17.
+[10:52:56] [Server thread/INFO]: +> [Denizen] +-------------------------+ 
+[10:52:56] [Server thread/INFO]: +> [Denizen]  _/_ _  ._  _ _ 
+[10:52:56] [Server thread/INFO]: +> [Denizen] (/(-/ )/ /_(-/ )  scriptable minecraft 
+[10:52:56] [Server thread/INFO]: +> [Denizen]  
+[10:52:56] [Server thread/INFO]: +> [Denizen] by: The DenizenScript team 
+[10:52:56] [Server thread/INFO]: +> [Denizen] Chat with us at:  https://discord.gg/Q6pZGSR 
+[10:52:56] [Server thread/INFO]: +> [Denizen] Or learn more at:  https://denizenscript.com 
+[10:52:56] [Server thread/INFO]: +> [Denizen] version: 1.2.5-SNAPSHOT (build 1772-REL) 
+[10:52:56] [Server thread/INFO]: +> [Denizen] +-------------------------+ 
+[10:52:56] [Server thread/INFO]: +> [TriggerRegistry] Loaded 4 core triggers 
+[10:52:58] [Server thread/INFO]: +> [PaperModule] Loading Paper support module... 
+[10:52:58] [Server thread/INFO]: +> [Denizen] Loaded 149 core commands and 27 core object types, at 2358ms from start. 
+[10:52:58] [Server thread/INFO]: +> [ScriptHelper] No scripts in /plugins/Denizen/scripts/ to load! 
+[10:52:58] [Server thread/INFO]: +> [ScriptRegistry] Loading 0 script files... 
+[10:52:58] [Server thread/INFO]: +> [Denizen] Final full init took 2475ms. 
+[10:52:58] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.16.0
+[10:52:58] [Server thread/INFO]: [Shopkeepers] Citizens found: Enabling NPC shopkeepers.
+[10:52:58] [Server thread/INFO]: [Shopkeepers] Loading the data of 2 shopkeepers ...
+[10:52:58] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.1.0-f32e809c
+[10:52:59] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.19.0)...[0m
+[10:52:59] [Server thread/INFO]: [MythicMobs] The server is running PaperSpigot; enabled PaperSpigot exclusive functionality[0m
+[10:52:59] [Server thread/INFO]: [MythicMobs] MythicMobs WorldGuard Support has been enabled![0m
+[10:52:59] [Server thread/INFO]: [MythicMobs] Loading Mob Registry...[0m
+[10:52:59] [Server thread/INFO]: [MythicMobs] Base directory G:\Moving Channel\plugins\MythicMobs\SavedData
+[10:52:59] [Server thread/INFO]: [MythicMobs] Module directory G:\Moving Channel\plugins\MythicMobs\SavedData\worlds
+[10:53:00] [Server thread/INFO]: [MythicMobs] [36mLOADED[0m
+[10:53:00] [Server thread/INFO]: [MythicMobs] Loading Packs...[0m
+[10:53:00] [Server thread/INFO]: [MythicMobs] Loading Items...[0m
+[10:53:00] [Server thread/INFO]: [MythicMobs] Loading Skills...[0m
+[10:53:00] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...[0m
+[10:53:00] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...[0m
+[10:53:01] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...[0m
+[10:53:01] [Server thread/WARN]: [MythicMobs] ?[33m Config Error for Mechanic line '[4mskill{s=SummonSkeletons}[0m[33m' in 'Unknown': [37mCould not find MetaSkill SummonSkeletons[0m[0m
+[10:53:01] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 9 mobs.[0m
+[10:53:01] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 vanilla mob overrides.[0m
+[10:53:01] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 0 mob stacks.[0m
+[10:53:01] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 skills.[0m
+[10:53:01] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 random spawns.[0m
+[10:53:01] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 3 mythic items.[0m
+[10:53:01] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 2 drop tables.[0m
+[10:53:01] [Server thread/INFO]: [MythicMobs] [32m?[37m Loaded 31 mob spawners.[0m
+[10:53:01] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.[0m
+[10:53:01] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics[0m
+[10:53:01] [Server thread/INFO]: [MythicMobs] [32m? MythicMobs v5.1.0 ( build f32e809c ) has been successfully loaded![0m[0m
+[10:53:01] [Server thread/INFO]: [WorldGuardEvents] Enabling WorldGuardEvents v1.18.1
+[10:53:01] [Server thread/INFO]: [WorldGuard] Registering session handler net.raidstone.wgevents.Entry
+[10:53:01] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.0.3
+[10:53:01] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[10:53:01] [Server thread/INFO]: [ItemEdit] # Enabled (took 152 ms)
+[10:53:01] [Server thread/INFO]: Running delayed init tasks
+[10:53:01] [Server thread/WARN]: [FastAsyncWorldEdit] Loaded class com.sk89q.worldguard.protection.association.RegionAssociable from WorldGuard v7.0.8-SNAPSHOT+2198-9988f9b which is not a depend or softdepend of this plugin.
+[10:53:01] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
+[10:53:01] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[10:53:01] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.19 (759)
+[10:53:02] [Craft Scheduler Thread - 7 - ItemEdit/INFO]: [ItemEdit] New Update at https://spigotmc.org/resources/40993
+[10:53:02] [Craft Scheduler Thread - 2 - FastAsyncVoxelSniper/INFO]: [com.thevoxelbox.voxelsniper.VoxelSniperPlugin] An update for FastAsyncVoxelSniper is available.
+[10:53:02] [Craft Scheduler Thread - 2 - FastAsyncVoxelSniper/INFO]: [com.thevoxelbox.voxelsniper.VoxelSniperPlugin] You are running version 2.5.0, the latest version is 2.7.1
+[10:53:02] [Craft Scheduler Thread - 2 - FastAsyncVoxelSniper/INFO]: [com.thevoxelbox.voxelsniper.VoxelSniperPlugin] Update at https://dev.bukkit.org/projects/favs/
+[10:53:02] [Craft Scheduler Thread - 0 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[10:53:02] [Craft Scheduler Thread - 0 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[10:53:02] [Craft Scheduler Thread - 0 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[10:53:02] [Craft Scheduler Thread - 0 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[10:53:02] [Craft Scheduler Thread - 0 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[10:53:02] [Craft Scheduler Thread - 0 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[10:53:02] [Craft Scheduler Thread - 0 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[10:53:02] [Craft Scheduler Thread - 0 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [32;1m14.2.3[0;39m
+[10:53:02] [Craft Scheduler Thread - 0 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[10:53:02] [Craft Scheduler Thread - 0 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[10:53:03] [Server thread/INFO]: [Citizens] Loaded 13 NPCs.
+[10:53:03] [Server thread/INFO]: +> [ScriptEvent] Processed 0 script event paths. 
+[10:53:03] [Server thread/INFO]: +> [Denizen] +-------------------------+ 
+[10:53:03] [Server thread/INFO]: +> [Denizen] Denizen fully loaded at: 2022/09/17 10:52:56 
+[10:53:03] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[10:53:03] [Server thread/INFO]: Done (22.740s)! For help, type "help"
+[10:53:03] [Server thread/INFO]: Timings Reset
+[10:53:04] [User Authenticator #1/INFO]: UUID of player toto7735 is 2da32322-fa7b-4a0b-95a2-d804ce470784
+[10:53:10] [Server thread/INFO]: toto7735 joined the game
+[10:53:10] [Server thread/INFO]: toto7735[/127.0.0.1:64742] logged in with entity id 38 at ([map]-954.8860326189455, 147.0, -1298.9382070878376)
+[10:53:31] [Server thread/INFO]: toto7735 issued server command: /gamemode spectator
+[10:53:31] [Server thread/INFO]: [toto7735: Set own game mode to Spectator Mode]
+[10:53:40] [Server thread/INFO]: toto7735 issued server command: /time set noon
+[10:53:40] [Server thread/INFO]: [toto7735: Set the time to 6000]
+[10:53:59] [Server thread/INFO]: toto7735 issued server command: /gamemode survival
+[10:53:59] [Server thread/INFO]: [toto7735: Set own game mode to Survival Mode]
+[10:54:01] [Server thread/INFO]: toto7735 issued server command: /gamemode spectator
+[10:54:01] [Server thread/INFO]: [toto7735: Set own game mode to Spectator Mode]
+[10:54:03] [Server thread/INFO]: toto7735 issued server command: /gamemode creative
+[10:54:03] [Server thread/INFO]: [toto7735: Set own game mode to Creative Mode]
+[10:54:21] [Server thread/INFO]: toto7735 issued server command: /
+[10:54:26] [Server thread/INFO]: toto7735 issued server command: /setblock ~ ~ ~ minecraft:grass_block
+[10:54:26] [Server thread/INFO]: [toto7735: Changed the block at -824, 178, -1430]
+[10:55:59] [Server thread/INFO]: toto7735 issued server command: /gamemode spectator
+[10:55:59] [Server thread/INFO]: [toto7735: Set own game mode to Spectator Mode]
+[10:56:20] [Server thread/INFO]: toto7735 lost connection: Disconnected
+[10:56:20] [Server thread/INFO]: toto7735 left the game
+[10:57:39] [User Authenticator #2/INFO]: UUID of player toto7735 is 2da32322-fa7b-4a0b-95a2-d804ce470784
+[10:57:39] [Server thread/INFO]: toto7735 joined the game
+[10:57:39] [Server thread/INFO]: toto7735[/127.0.0.1:64815] logged in with entity id 117 at ([map]-824.0464185578577, 177.67418941699088, -1429.8272861615349)
+[10:57:43] [Server thread/INFO]: toto7735 issued server command: /gamemode spectator
+[10:57:43] [Server thread/INFO]: [toto7735: Set own game mode to Spectator Mode]
+[10:57:50] [Server thread/INFO]: toto7735 issued server command: /gamemode survival
+[10:57:50] [Server thread/INFO]: [toto7735: Set own game mode to Survival Mode]
+[10:57:51] [Server thread/INFO]: toto7735 issued server command: /gamemode spectator
+[10:57:51] [Server thread/INFO]: [toto7735: Set own game mode to Spectator Mode]
+[10:58:13] [Server thread/INFO]: toto7735 lost connection: Disconnected
+[10:58:13] [Server thread/INFO]: toto7735 left the game

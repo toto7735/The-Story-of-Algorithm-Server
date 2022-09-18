@@ -1,0 +1,162 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3105
+'2':
+  uniqueId: 85edf350-b424-4efc-bed3-4fb3665bd108
+  world: map
+  x: -1460
+  y: 75
+  z: -1256
+  yaw: 104.94081
+  type: admin
+  name: '&e[SHOP] &fWandering Trader'
+  object:
+    type: citizen
+    npcId: edeb7154-0b12-4173-a1d6-ca5875dc4dac
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"light_purple","text":"Fast
+            But Weak Sword"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"A
+            very fast but weak sword"}],"text":""}'
+          - '{"text":""}'
+          - '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Right-Click"}],"text":""}'
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Gain
+            "},{"italic":false,"color":"white","text":"Speed V "},{"italic":false,"color":"gray","text":"and
+            "},{"italic":false,"color":"blue","text":"Weakness I "},{"italic":false,"color":"gray","text":"for
+            "},{"italic":false,"color":"red","text":"5 seconds"}],"text":""}'
+          Unbreakable: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: GOLD_INGOT
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Gold
+            Ingot"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Used
+            to trade!"}],"text":""}'
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: COOKED_BEEF
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Gold
+            Ingot"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Used
+            to trade!"}],"text":""}'
+  snapshots: []
+'3':
+  uniqueId: f06810e0-d80b-4541-819c-34b6d085d70c
+  world: world
+  x: 149
+  y: 115
+  z: -11
+  yaw: -14.5688
+  type: admin
+  name: ''
+  object:
+    type: citizen
+    npcId: 191de391-76d3-4eef-80f1-8f4834049f39
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_leaping
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: GOLD_INGOT
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Gold
+            Ingot"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Used
+            to trade!"}],"text":""}'
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_swiftness
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: GOLD_INGOT
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Gold
+            Ingot"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Used
+            to trade!"}],"text":""}'
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: BONE
+        amount: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: GOLD_INGOT
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Gold
+            Ingot"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Used
+            to trade!"}],"text":""}'
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: FIRE_CHARGE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: GOLD_INGOT
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Gold
+            Ingot"}],"text":""}'
+          lore:
+          - '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"Used
+            to trade!"}],"text":""}'
+  snapshots: []

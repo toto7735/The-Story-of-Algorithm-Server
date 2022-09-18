@@ -1,0 +1,695 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 77
+npc:
+  '0':
+    metadata:
+      cached-skin-uuid: 022e4a48-45e7-4a57-982c-316209497746
+      nameplate-visible: 'true'
+      cached-skin-uuid-name: plathon
+    name: §e[NPC] §fOstra
+    uuid: e0cd9602-5a76-4f46-8948-371b049caf35
+    traits:
+      speech: chat
+      type: PLAYER
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      spawned: true
+      text:
+        delay: -1
+        talk-close: false
+        random-talker: false
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        speech-bubbles: false
+        text:
+          '0': Hello
+          '1': se
+      skintrait:
+        fetchDefaultSkin: true
+        signature: lNDSVH+ac6wURWhOLE71h9ysVIsGglVOT5nnxmHrVFnRdieqWZQrwX5Dn1tCqjp00D3RAZOdzzjtJOYnJtiNpD32rJ+98NntNywdA0Ob8QT2SB0aFZhxkfNdd78cCGdKgp1Ao24Eg2lbw0uupgpSzdnqPYjkoZNabbaiNAqpuAIK1B1J0tjeMZ/MKXxynLe1WvyczH4/Y+QglstpIeh7QVttZMv2NIHqxwvFSsK1vrije94l/jAY5pT695rNIj7Lk8ORUahFOhFWlRfKeNYKpiNhtmZ0b7b+co4YbtPQI7RAnAv69KEhiYJ7YIpgKlKAbkrBBfWYep55T9laVyxyg6cqXDaWJ6ikh9WaPlopCRFhdiBBXDgXJudMUtLOuKeZgaz5H3+p7Q0RqVe5ad0f9YY1gJ5E60KozCl2t5CPVqYb1N0YixPOOQGB/XBAKCdHL+eIEgLvP6dYWA9oG9ZayFLRAelhiUG5U9tP1bAs3jcc0CgZdetFZi90d9f6Bi7v28aOnNUA3s5PdyIzef5X+npR0D5jcaWKxBxwo5j5QZeaahabEBaFdGav7GwO8a2VJ756+ynL0BpHiwS8JIRTTxzbfmwmOJ7M7G6X08cJbx+BhA1Vgvj7Kep+MsAftZjiBHp0NGqofs2yR9n+vqNydv3PIRJ7YzmfbFvSkveTR2k=
+        skinName: plathon
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1NjU3NDgxMDcyMSwKICAicHJvZmlsZUlkIiA6ICIwMjJlNGE0ODQ1ZTc0YTU3OTgyYzMxNjIwOTQ5Nzc0NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQbGF0aG9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFiZDZjM2QzZWM0NGFiYzA2ZmFhMDUyNWM2OWJlZjkzYmI0OWZlNTYzZWY1YTY4NzllYzBiYzg4MmU5YzVjNDUiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNDBjMGUwM2RkMjRhMTFiMTVhOGIzM2MyYTdlOWUzMmFiYjIwNTFiMjQ4MWQwYmE3ZGVmZDYzNWNhN2E5MzMiCiAgICB9CiAgfQp9
+        updateSkins: false
+      location:
+        bodyYaw: 113.9382
+        world: world
+        x: '28.5364'
+        y: '-3.09980420724E7'
+        z: '-6.8113'
+        yaw: '123.2149'
+        pitch: '-12.3387'
+      age:
+        age: 0
+        locked: true
+    traitnames: smoothrotationtrait,lookclose,mounttrait,scoreboardtrait,text,spawned,speech,type,inventory,owner,location,age,skintrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    metadata:
+      cached-skin-uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      nameplate-visible: 'true'
+      cached-skin-uuid-name: toto7735
+    name: §e[SHOP] §fWandering Trader
+    uuid: edeb7154-0b12-4173-a1d6-ca5875dc4dac
+    traits:
+      location:
+        bodyYaw: -82.515915
+        world: map
+        x: '-1459.5'
+        y: '75.0'
+        z: '-1255.5'
+        yaw: '136.5016'
+        pitch: '0.0'
+      spawned: true
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      skintrait:
+        fetchDefaultSkin: true
+        signature: lhMZrdrJSspUt7Z3Pa6vWlOGsVbyK+gMAI/MIYzaYP9GWKnlJTq+FRZZ4zZMrY8P8wVdMRqQf7TbuS5KotMFChLSPgca0UupJkKv59ySzDo56uOTiCxWDH9/D0M5qyXbzjvgL6+2lfidt54vGjPEDG1a+g9rDlSArKSi24qaKsVYe5gyda7dDhNaxKxWzg0hKnehjXCMOdJla1Pv21YZEWojbDn0ELqfZyc5VZjs0rCYNJY2f6UgOqMMAELiDVQHglbl90FGkgtSQZo+bfKAzK2pzb21fy0a0yEY7APJJ/7zYcviwO/157Oq1bMzuHhvbEkKJrjRLgQbWYsWT6MK5ePkpBRYsO7zzAaNFNvx7or6VWq9OKhk+D7QvaN1yI1ctb3/YiI5VkIMrTV/spG+zL7NlzlAByZgxay1C2A1Lxmvm/KcyCdVITKGEZY2MgXi4qUFRFYsyTHqeJmSfzGslpmvZQfH1yKho5Dg4woMMVMDynvaLB8c8U59IRhyagV3coTPQN+Yk6Mbnq2Y4D6YRr9wjEy0Fy3k7R+jiml3O0Sf3lVB0yuAjrBCoWtVzjIgA0L4AVKGI/skPYnroFg2oMeGI/p5IL0XqTyCr9KIg31jnoZuERKlkV/XZfOyQ3aFNVetjh+yLUsPqbtvMW7VjyY73vGlo2bGjBSVR+8Oni0=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1ODM4MjQyNTcyOCwKICAicHJvZmlsZUlkIiA6ICIyZGEzMjMyMmZhN2I0YTBiOTVhMmQ4MDRjZTQ3MDc4NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0b3RvNzczNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNmE2Njk4M2QzNjFmZGFhZDlmMDkxYjkyMjJlYTg0N2YzYjM4NWE0ZWY4YjI1MDUyYmQxNTBjMjJkMTYyNmIxIgogICAgfQogIH0KfQ==
+        updateSkins: false
+      text:
+        delay: -1
+        talk-close: false
+        random-talker: false
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        speech-bubbles: false
+        text:
+          '0': '&e[SHOP] &fWandering Trader: Hello.'
+          '1': '&e[SHOP] &fWandering Trader: Do you wanna buy some?'
+      speech: chat
+      type: WANDERING_TRADER
+      hologramtrait:
+        direction: BOTTOM_UP
+        lineHeight: -1.0
+      owner:
+        uuid: ''
+    traitnames: lookclose,smoothrotationtrait,mounttrait,hologramtrait,scoreboardtrait,text,spawned,speech,type,inventory,owner,location,skintrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      cached-skin-uuid: c0022503-de6d-4b85-b530-6de10cad1c53
+      nameplate-visible: 'true'
+      cached-skin-uuid-name: chuanyeow
+    name: §e[SHOP] §bCool Kid
+    uuid: 191de391-76d3-4eef-80f1-8f4834049f39
+    traits:
+      location:
+        bodyYaw: 67.31613
+        world: world
+        x: '149.5916'
+        y: '115.0'
+        z: '-10.8469'
+        yaw: '67.3161'
+        pitch: '-2.005'
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      hologramtrait:
+        direction: BOTTOM_UP
+        lineHeight: -1.0
+      type: PLAYER
+      skintrait:
+        fetchDefaultSkin: true
+        signature: Wc/JQKyupEZgsrteehqoW5B496z0ABrHKGTxsjxXv4SeSWSIkSwU+WhlXKZ0EuNTzAzdLNO1i96GJEsMUZYCRIQrL57wA/rcvYzntm7xitjRufPVUbm2D2e2dogU2XYWwH3psA8n2NkiYCviS5ej0Z+jPV0A3XOaU04m/SwOWXPHsUr20p67Gct3UoFMs1pDJJHJs1W8lZ1H/CFC+dDulZq1CMkIpTGHqpeDI4Z5YOOYmdKEez1SP1MMdOVwTm7HqNdBF6LOXUWLmq9WZgx0xfwpwzofj0T0+CI/hO4Tjvatvd2qMQ7SA7cAlx1IcPXkHqhdDb/VpFwOTOKdDchoIJMaqPEXyGwv5xT7X4fOZ6f87U7xZc8agalph9GIC5uUADXeZFpRiYtSdhILrZncz1AJD41+tkFXWD5A28+sPJE4ecw4LNd/dMlfkpVzNad8YD/0/hWTvWoaiEIxll3cIAidYYLcTp2FBGz7NEcmbz07MROXA3oiENVST3B/mWTFqJvZ/a0PyRWQdsePa9qsR4oUXHVrhIzIfiC00MrC/UWczjYQn2v2mvyGW0VFHe0y3MjVmZXRLhtAWmR+q2hSOZ08X/bwyltS7ddIdWybvkq7k72l9ubkfOrQd5qS5N9AqJDA/rgB6yY8mIlo6oP0OfhXh+VrheClPZpSF+gjLfI=
+        skinName: chuanyeow
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1ODY0MDExNzkwNSwKICAicHJvZmlsZUlkIiA6ICJjMDAyMjUwM2RlNmQ0Yjg1YjUzMDZkZTEwY2FkMWM1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaHVhblllb3ciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjFmNmE2YzNhMjZlNzMzOGM1MjBlOTZjNTdiODY2MDY5NGY3NjJkNTc5MzY1ZjU3MzgwM2FkY2RlMDAyMGNjOSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+        updateSkins: false
+      spawned: true
+      gravity:
+        enabled: true
+      owner:
+        uuid: ''
+    traitnames: inventory,owner,lookclose,smoothrotationtrait,mounttrait,scoreboardtrait,hologramtrait,location,skintrait,spawned,gravity,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '3':
+    metadata:
+      cached-skin-uuid: c0022503-de6d-4b85-b530-6de10cad1c53
+      cached-skin-uuid-name: chuanyeow
+    name: §c[YOUTUBER] §fChuanYeow
+    uuid: 021175ae-97fd-4822-a91a-326a1d46b971
+    traits:
+      spawned: true
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      text:
+        delay: -1
+        talk-close: false
+        random-talker: false
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        speech-bubbles: false
+        text:
+          '0': '&c[YOUTUBER] &fChuanYeow: oh hello.'
+          '1': '&etoto&f: who are you? why are you here?'
+          '2': '&c[YOUTUBER] &fChuanYeow: Its long to explain, but Im stuck here'
+          '3': '&etoto&f: Why are you stuck here?'
+          '4': '&c[YOUTUBER] &fChuanYeow: Years ago... the YouTube algorithm locked
+            me up and made me do weird things.'
+          '5': '&c[YOUTUBER] &fChuanYeow: even if I say it, its a unbelievable situation
+            lol'
+          '6': '&c[YOUTUBER] &fChuanYeow: the YouTube algorithm you know is invisible
+            so I wonder how it bullied me. ;-;'
+          '7': '&c[YOUTUBER] &fChuanYeow: but what is certain is that he looked like
+            a wither.'
+          '8': '&c[YOUTUBER] &fChuanYeow: To continue my story, I failed by dying
+            one block from the dropper the algorithm ordered and I ended up stuck
+            here.'
+          '9': '&etoto&f: well, thanks for explain. have a good day!'
+      location:
+        bodyYaw: 113.078476
+        world: map
+        x: '-1437.256'
+        y: '84.0'
+        z: '-1312.8118'
+        yaw: '112.9514'
+        pitch: '0.0'
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      skintrait:
+        fetchDefaultSkin: true
+        signature: Bp/kI/5uoV4YvnV+DauBrPaVYpr3Sj4JVJ1P+jgbhEHsTR8j/CjdbM/axANLlrEmzsPpsEMMcx4kfBtMy0m3VyINPm5A1kNUIHfjjVVsCakJBp6qUjA/DwgFnIh0I+WXE1nTr+xH7S2z6ZRYWVS7zRegxZFsEmww/wmZGFOAfWAwxFby900ujNTEncpMrnODSTMtP6Cj9nefp2ZYls37ZiCX8pP6mRIebYmf/JBMAVNPHPL2IdcVz6Auc+RHTWqtwpS+UJvsZU4bRl9U/Ct9gLB/MMMCaoABs9+oXs4Efmr8Hhw1nfBILmnoMHwgK/BOjjdfdM1J4R0oWB6ZPgoehBw2E+uUIqyzL6C2c3GWlg0kN26Lnd7hsdSOYKdqRUjMKlRr1JGXKcAh/mZMGg+Of3EK5cEzkNOWlRpEEgC1zFYXdFaEPJaqI/Iv3+dsXUHGxwjOt5fq0Rjb0Lit/fylwiWQ7FIefuYtKoQOWzaqQuhOGZMZSGryc1XqgB38ldYbKG4YvqvLMv74neky0hi/oBsQZNZlxXl4KCaATAoycNHVJEyNGJMWiq2PbGSdlcOAuKidDorjwdF0nxCBVzZoGIyH5ctFC4w1xAojMnODjCvyLbj8EeMCP8M/pyKHJadIlYK+4kqrDHQKYsU2X4l3/pchz4VoRNjYCbLGJ5ZvU2k=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1OTA1ODE0ODg5NywKICAicHJvZmlsZUlkIiA6ICJjMDAyMjUwM2RlNmQ0Yjg1YjUzMDZkZTEwY2FkMWM1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaHVhblllb3ciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjFmNmE2YzNhMjZlNzMzOGM1MjBlOTZjNTdiODY2MDY5NGY3NjJkNTc5MzY1ZjU3MzgwM2FkY2RlMDAyMGNjOSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+        updateSkins: false
+        skinName: chuanyeow
+      age:
+        age: 0
+        locked: true
+      hologramtrait:
+        direction: BOTTOM_UP
+        lineHeight: -1.0
+      speech: chat
+      type: PLAYER
+    traitnames: lookclose,smoothrotationtrait,mounttrait,scoreboardtrait,hologramtrait,spawned,text,speech,type,inventory,owner,location,age,skintrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '5':
+    metadata:
+      cached-skin-uuid: 6a73dd4b-125b-4afc-a4e1-63b70de99a1b
+      cached-skin-uuid-name: woman
+    name: §c[???] §fSlea
+    uuid: 9650c4f0-da06-44c8-bc9e-84a9e498ea25
+    traits:
+      type: PLAYER
+      speech: chat
+      age:
+        age: 0
+        locked: true
+      location:
+        bodyYaw: 53.12056
+        world: map
+        x: '-1443.5459'
+        y: '84.0'
+        z: '-1294.6008'
+        yaw: '53.1206'
+        pitch: '11.9809'
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      skintrait:
+        fetchDefaultSkin: true
+        signature: nKwZAOdijyVCXW9r4l0DAUCuUenqUXsYeMdvI9ckYjKYPhvB9B0zX8A2NDjqrE/1f8zt+7kecnOGFjUQAbCOK7ySlA6NoPhrpoYrl8wLThpbSggMHgmGXYXR7/4kCCkB5OhtMoTcbtKyyv5kfjqmWHm7/ofVNFKjpD6PGMgjhdp7xjjdSZKWXOQO8cpdNQ0vo5Es/pbrDm5Lbq62QwvEEiLnmZFCIGd2qn9jS10lmBG3LIIJMDVE6Q1Qxrp+Y/LkGi+d8NcXxfW3sKiybhkFvvEZN9X+NaFpvG3R0MwpK/UyRr4Eox4hWLFk9iutgf0ZzWDmQIcJ9qns55OdVRyG+DiaSPRiVZ0tDdze6SiOYxw7JeGvnbGQ97atjUySI2Vr8zo+AibS+pwT7XR8Fh9XCNnyzZ2lUlbKfwDkRpfMypmtrIRivZ7jDtWVOKhOdGxn29FvxRgAW2A7k8JI9ExRg2liMDFCtOX8Ef1SZrXAVdCXrDOX0zakwzefuJhmKXfimP+8+v+zUZUXZNxFVgTIVf7QIWX0foH6ekHlgqsRo5gc3eFn+lDlEFYEHfTqarZeeXHAYFiSANe+mxuIBi7iRmmIGk0bbq1gTmexYMttUb04ehPoake/PLRqG9dAU9HhBWHNPo31e/c01XbVP+dVSYNskt5v55lmzTsQmZSdBRQ=
+        skinName: woman
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1OTA4MTU4NzM4MSwKICAicHJvZmlsZUlkIiA6ICI2YTczZGQ0YjEyNWI0YWZjYTRlMTYzYjcwZGU5OWExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJXb21hbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ODE5ODJjZmVjYTEwMzg1YjY3OWU3NTEzM2EzY2RmMTUyY2UxZDI3YWQ2ZmQyNzQ5NzQyMjllZmVhYmQ3NmM0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0sCiAgICAiQ0FQRSIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM0MGMwZTAzZGQyNGExMWIxNWE4YjMzYzJhN2U5ZTMyYWJiMjA1MWIyNDgxZDBiYTdkZWZkNjM1Y2E3YTkzMyIKICAgIH0KICB9Cn0=
+        updateSkins: false
+      spawned: true
+      text:
+        delay: -1
+        talk-close: false
+        random-talker: false
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        speech-bubbles: false
+        text:
+          '0': '&c[???] &fSlea: Who are you? How did you get to this forest?'
+          '1': '&etoto&f: Well, it''s strange to say, but the YouTube algorithm gave
+            me several missions and I was sent here.'
+          '2': '&c[???] &fSlea: &7&oI knew it. This youtuber is the same. (soliloquy)'
+          '3': '&etoto&f: what you mean? Do you know about this situation now?'
+          '4': '&c[???] &fSlea: That guy isn''t a real algorithm &7&o(no, he was once
+            an algorithm)'
+          '5': '&etoto&f: What? Can you explain detail?'
+          '6': '&c[???] &fSlea: I don''t know the details, but about 4 years after
+            I started living in this forest, several YouTubers started getting stuck
+            here. There were some YouTubers who escaped, but most of them failed their
+            missions and ended up being trapp'
+          '7': '&etoto&f: why would YouTube Algorithms, or what used to be YouTube
+            algorithms do this?'
+          '8': '&c[???] &fSlea: Well, I don''t know the details, but maybe the algorithm
+            was used a long time ago, but it seems to have been abandoned on YouTube,
+            and I think it''s vengeance on YouTube for that.'
+          '9': '&etoto&f: Thanks.... Have a good life!'
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      hologramtrait:
+        direction: BOTTOM_UP
+        lineHeight: -1.0
+    traitnames: lookclose,smoothrotationtrait,mounttrait,hologramtrait,scoreboardtrait,spawned,text,speech,type,inventory,owner,location,skintrait,age
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '4':
+    metadata:
+      cached-skin-uuid: be7f3006-908b-46e1-8ef2-87faf6e8a308
+      cached-skin-uuid-name: semmaas
+    name: §c[???] §fMax
+    uuid: 6be27709-afef-42c9-9b99-d2d937b25727
+    traits:
+      type: PLAYER
+      speech: chat
+      age:
+        age: 0
+        locked: true
+      location:
+        bodyYaw: 33.74691
+        world: map
+        x: '-1453.7581'
+        y: '74.0'
+        z: '-1270.5242'
+        yaw: '33.7469'
+        pitch: '0.0'
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      skintrait:
+        fetchDefaultSkin: true
+        signature: EUBBr7btKYEDj+78CZe6VK8OOaZK3Ji9Su3jUSZ2X+g9WIfbKh6M9/iWMk1KmMVG/mlIcun7y8yF8m75UpLm22BIDgR6a83LTs0LqFy7Pakq4879+gVYzPdP8cHjHFS9atCZcZSvvmlZxGLvcdNMwNY5iEj6LwWHfNpQL4jyrpPr80s7hloJAfOm4/lhGTA+eOnUKTG0yleyWGjdyyqoTRX5nWMkzTBnKcBoddcrniBb60w12TX33Wf2EBLECIWsJIAdCjUdgUAtag6a5YqzIY75mz4yJU02sE+Uf2szitM/qpPbEBXMI3eibBjUgrC2MPs5TFx9nvtTVz2ippZBAlE28mVzJ+i7plVqzq70jzayZWMhZgPDkWMVVXPiVgp1+SQqB20QubGYZ4cOYdRq9WOZ3LMlBK18+0XtNU3WMDmMRoZ3yR0NyMZHRICuEtXgtH6zswxCnjUs36oUSE6xAg/3f0AoVnEp7b1GlgpyMr3ePF/R6aG0FW+jiSwr1MENlbYw8w4xd7J0m4IB61iNC/eDOry+eL/9QKKVByoBTcRU7KZWutg87r7Byc6Y3Ip8vy1OSmaarlH4abzj5Jr+/WDWg5ihIIQW23D6u41Xr+hDVIJDG8d1VIYkvihj5CoFxWbKqdwdPMmS+/+71hOGTT5lzzMrs2tgElu6bv3ruXo=
+        skinName: semmaas
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1OTA4MDc2NTQzMywKICAicHJvZmlsZUlkIiA6ICJiZTdmMzAwNjkwOGI0NmUxOGVmMjg3ZmFmNmU4YTMwOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZW1NYWFzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIyNzIzMzg3ZGIyNmMxZGU3Nzk1NGViOWZiMzI2ZTFmMmNkNWM1NTQwOGVjNTEzZTQ0OTllMzlkMzlkZWYzOGIiCiAgICB9CiAgfQp9
+        updateSkins: false
+      spawned: true
+      text:
+        delay: -1
+        talk-close: false
+        random-talker: false
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        speech-bubbles: false
+        text:
+          '0': '&c[???] &fMax: Oh, Why are you here??'
+          '1': '&etoto&f: I can''t believe I said it too, but the YouTube algorithm
+            came up and let me do some weird things and was sent here.'
+          '2': '&c[???] &fMax: &7&oOh, it ended up like this. (soliloquy)'
+          '3': '&etoto&f: What do you mean?'
+          '4': '&c[???] &fMax: Don''t worry, I''m sorry for the situation like this.'
+          '5': '&etoto&f: Why are you sorry? Who are you?'
+          '6': '&c[???] &fMax: Never mind. good luck.'
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+    traitnames: smoothrotationtrait,lookclose,mounttrait,scoreboardtrait,spawned,text,speech,type,inventory,owner,location,age,skintrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    metadata:
+      cached-skin-uuid: 58c5d610-70d8-4c89-bddb-33e0793e09a5
+      cached-skin-uuid-name: eject
+      removefromplayerlist: false
+    name: §c[???] §fEject
+    uuid: 99638d86-302e-46a9-80ed-af3da040a266
+    traits:
+      spawned: true
+      type: PLAYER
+      location:
+        bodyYaw: 108.955826
+        world: map
+        x: '-693.8567'
+        y: '73.0'
+        z: '-1187.5441'
+        yaw: '117.7516'
+        pitch: '-23.4668'
+      age:
+        age: 0
+        locked: true
+      skintrait:
+        fetchDefaultSkin: true
+        signature: yicp83do+QNGqgLALgctgxtUymnMmz66aQZjNrDPtHHOkFQ3/i/7bXhEkoW1yB0irWP6yqlLyA//s7yHVNCf9eKFtrUYSVRaRomabMHFkuKlvKzj1GTirobZvOFNqj7bdRPXxWNMwm6KoPDmMMPXG7fCxnFu46SNgNOCuSy+t+mAG6QtUY/jQ0J+1Qy5D6CyozO4B2rhGLluwiAOV92Nj8wavehdSWgCsT5FeYmHWRz1khWxxDGhXhfD2P97cpKpncmj13663y116UOLzrrIIRO0JcyYWe2+wIZb4quh7CSu7DjLP0SMAtAn5U1IFuKgCM5VWzblECjFvfWj1w9U21qafGXh+17JJIweTKw9eMTUyaULDyAWq5IYl7s9IrmMGWfHbZFwh5O1ITJOIkFxO/xDHU4vPvRSu+IpGZkQ6B2gxKGC1fACq+OkZtQc4bEAIx+Ree1LRApr/CsraAW1Qw7JB3EFTaQgz+wgUfegGMkBanG2GQY9YysIqutNX+hADuIWliyK4YM2KZSDR1Vt4jY9Sy8BZN01Y4eT4O0Cccs7m7mfZmv8+8gHV+UVTzdx4OEGk903pTMRHrEYnTOoAC4EVwZgGLW9y82SdsTfGTXcD2SuKzqd4StCQt6BYdFeGTyKXqpS7Dyin+gFa6YS9JwyPCLa1Yj7j+ZdZ7vU8KY=
+        skinName: eject
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1OTE1NTgzMjAyOCwKICAicHJvZmlsZUlkIiA6ICI1OGM1ZDYxMDcwZDg0Yzg5YmRkYjMzZTA3OTNlMDlhNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlamVjdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MDBhN2RkYjE4MjUxNzdmM2VhODA1OTM1ZjM3MjZlMDUyNThiNDZiMmNjYzBjZjQzZWFkYWRiMWE1ODk5ZTdiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=
+        updateSkins: false
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      text:
+        delay: -1
+        talk-close: false
+        random-talker: false
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        speech-bubbles: false
+        text:
+          '0': '&c[???] &fEject: It looks like you''re going to YouTube''s headquarters,
+            so why are you going?'
+          '1': '&etoto&f: Who are you and do you have a problem?'
+          '2': '&c[???] &fEject: Google, the YouTube-owned company, is known for closed
+            and hating visitors.'
+          '3': '&etoto&f: But it seems The Algorithm of the past is going for revenge
+            on YouTube.'
+          '4': '&c[???] &fEject: Algorithm of the past, what do you mean?'
+          '5': '&etoto&f: I''ve heard of other people too, so I''m not sure, but the
+            old YouTube algorithm was abandoned, and the algorithm seems to want revenge.'
+          '6': '&c[???] &fEject: ...it''s none of your business'
+          '7': '&etoto&f: OK.'
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      speech: chat
+      invisible: false
+    traitnames: invisible,smoothrotationtrait,lookclose,mounttrait,scoreboardtrait,text,spawned,speech,type,inventory,owner,location,skintrait,age
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    metadata:
+      cached-skin-uuid: 2eb7c08b-0649-4b4c-b479-80eadfe8cee0
+      cached-skin-uuid-name: darkshadow_08
+    name: §c[STAFF] §fEpisode
+    uuid: 3958b7d4-609d-4031-b308-7a4136fd6227
+    traits:
+      spawned: true
+      type: PLAYER
+      location:
+        bodyYaw: 131.93869
+        world: map
+        x: '-939.1532'
+        y: '66.0'
+        z: '-1239.1268'
+        yaw: '166.9387'
+        pitch: '-21.2381'
+      skintrait:
+        fetchDefaultSkin: true
+        signature: vfOl9pF6tQyZuMsxQhoOffffd02uHP3bsgrmEw66a5WdfIb3O0kpiR3H6XuYKGUl2utUNv1mKy4qf6euzFSlZmw0IVIld85VLgAdZhCadCe54XXQc+4pU6jS3dIyNOEM843s7OTvuGJJJ3C1yCWrQ1RWujOywAzbLEx1Pv2mUXIP7WgusawSQov+++gFMCA+piKe/n5dR5AJoayLzdJs1Wx+xmlyX89nCf7ZycYQxGkdvk3BCL6LqC1+UCAaZ0xa4cBdTR45QSwwzEVcTIs7+Bhp7amT77VgCL6fnzSOuEEpRhqQoDOIjujkzsho78+b6H8/tZiHrhjNlYVcqmJz0duRAhmNjvG91S2cDwdAU7xskumnKsx3Qqp3QTUqvYvK11XTsDOLvZInI3Xtgzstj+dlmmtCpPSm9k9vaSzn1XZ7b8z0HMUMbLYe0EW0bK6nYk9RUtdbV0svXd45f85kkY/8uDXbRKRBnuju2kzTY+CmVtv45d2mfpyU0zwedphMk4+wdQw68xuAxmqhvye2FsbET+vhoHI1OjVjlplmkHkSpy86172wN3X4roH3bt1kVIKolfyztKhv0MlLig/F/EgyT5nc9bFeLt1PjhoI1TsagqK9TkAlFFXAGcJVIoVcxDABR6IydOiSE0aWGGMCoqD3wBWzrv8iMSGU4zjkTtg=
+        skinName: darkshadow_08
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1OTE1NTQ2ODk2NCwKICAicHJvZmlsZUlkIiA6ICIyZWI3YzA4YjA2NDk0YjRjYjQ3OTgwZWFkZmU4Y2VlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYXJrU2hhZG93XzA4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhYWU0NzAwNmIwZTY2MzcyZmI1YWI4ODNmNDM2NTdkZTFiOTBmOWIwMjBjYzM0OGJkNmIyZDk5NGQyMDY1Y2EiCiAgICB9CiAgfQp9
+        updateSkins: false
+      hologramtrait:
+        direction: BOTTOM_UP
+        lineHeight: -1.0
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      age:
+        age: 0
+        locked: true
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+    traitnames: inventory,owner,lookclose,smoothrotationtrait,mounttrait,scoreboardtrait,hologramtrait,location,age,spawned,skintrait,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '6':
+    metadata:
+      cached-skin-uuid: 2eb7c08b-0649-4b4c-b479-80eadfe8cee0
+      cached-skin-uuid-name: darkshadow_08
+      removefromplayerlist: false
+    name: §c[STAFF] §fJack
+    uuid: c4ee5466-8526-4765-9a0a-9f94a854908e
+    traits:
+      spawned: true
+      type: PLAYER
+      location:
+        bodyYaw: -49.763145
+        world: map
+        x: '-939.7988'
+        y: '67.0'
+        z: '-1248.2346'
+        yaw: '-49.7631'
+        pitch: '-13.887'
+      skintrait:
+        fetchDefaultSkin: true
+        signature: kYyo6Cd5N+v2DUbT4YFq4pk0zdk1IaZv7utA8mXjQkfMDb3NMAzvhGZ0AprUhKda0QroEpd4yI4+6u5bNw+MlK8Cv69UyFKfu5QyGcTDizDcPZFMUwomzqSbwsUSZ76/nKaeNZoX8RWnb2g4ChucorkawMOpOGw26rfzpjlQrCHQf2sdmpvkZmKeaXq8rbjb9SUaHAv7FTFX8wrOjTh1px0DBo3GMNc05KUgcms7ZWedr1X2X/GwoWi1wDTJy8Cft6BZtFZd67wAqMbZfBYp5j+JUXyHFzQ1i8xg6g7e8WrQsAOHix6FRwWZFEG3bxPzYjZUS7PHIpJizpV+CSzFsF9ZOLbABWOlcIE7+NVDRyLxM2d6dJXhfk0N/6V93mGSmHLeJuU5LL7EdFTGQ4UVyS6S6sEQDao6wPY+5UwRoyArNE7Mr5VTCnGsOwbaeQu9lMHNYFX269ItrBO/OJ00hO2+LdV7JoCpb55h+A8IfB4FSBGx/c7S5dTHYSNsU4SyibdPlwgrZjvLlI7x1BiotFE8E49Ptk/LVrUrNXt5pqmDY+IyLzwZ2EjSsncWZxeqJHIWs1oC5Q67WehnQLqHWNQ3tg61JQTWsrFh4qt/vzJAy2HfeCXWRAstR8nIMiHvxhQ3V73yw/1Q/Z7PbKv6Lh/oUn8GNkMFTuyzVmMsFR8=
+        skinName: darkshadow_08
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1OTE1NTQ3MTg3OCwKICAicHJvZmlsZUlkIiA6ICIyZWI3YzA4YjA2NDk0YjRjYjQ3OTgwZWFkZmU4Y2VlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYXJrU2hhZG93XzA4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhYWU0NzAwNmIwZTY2MzcyZmI1YWI4ODNmNDM2NTdkZTFiOTBmOWIwMjBjYzM0OGJkNmIyZDk5NGQyMDY1Y2EiCiAgICB9CiAgfQp9
+        updateSkins: false
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      age:
+        age: 0
+        locked: true
+      lookclose:
+        range: '5.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      invisible: false
+    traitnames: inventory,owner,invisible,smoothrotationtrait,lookclose,mounttrait,scoreboardtrait,location,age,spawned,skintrait,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '74':
+    metadata:
+      cached-skin-uuid: be7f3006-908b-46e1-8ef2-87faf6e8a308
+      cached-skin-uuid-name: semmaas
+    name: '&7[fired employee] &fMax'
+    uuid: 43a7617a-fb6a-491a-b027-d60b9febddcc
+    traits:
+      spawned: true
+      location:
+        bodyYaw: 147.28848
+        world: map
+        x: '-962.4441'
+        y: '67.0'
+        z: '-1255.8561'
+        yaw: '147.2885'
+        pitch: '0.0'
+      hologramtrait:
+        direction: BOTTOM_UP
+        lineHeight: -1.0
+      type: PLAYER
+      skintrait:
+        fetchDefaultSkin: true
+        signature: C74pbxSj7nuh1Env7EhSL3vnRhRA/WKxNK46+8WT8X2WSca9vtRhxyIA47Dbmv3kQX6KgoUhdkcXs/HQI2ZOu61hn3CewyCIvmhy/c3BV6jBx9geqLbTqwZCohcBMeFgEjGVP354U6Xknx2UYMoWCASp1VuA/njoKxvCIs/KwDfhL7PnDwAsUl6Nzf7ZMHfd6NF4tjIhmF1aXVCdIC3xAk/p98L6QCDFUw5lA33hGw7rPwEGBlLpWapqrJUoWmi7eKKboPORpom1muW9ahUI+864Xk0JTINlOjOemDtnKmeOYKIxcfeOG+E6fa9g/lmnaIsyEz8G6y4uOO27iyibRxjbYeQHFEj5kAFHIHwo+yum6dgbvEB/tjY0R9ETXx6gqKmlrXEer222hbo4CEwfOBonKG7cYBVCE0ZM/mwL+PyMRN8KgGY8OItYUxMzrIAykJzNCEgkkxGBS7bELgOdUJKqShA2kdaQx2cBsi3FUvF0LOxDBWfXsa80k/mROMwtPUPHyHRlB5JpkorNPCrbaiRSWiZhAguzqIrL9JoD5rzU0D6WoBruYjX1VM11kPor8ny810naCCYN0KsEK0RbgyOAMlhl5MsdV5ncZSSCKP8h244NNFZZgK8SiyB+cs4CSLOrov8Ad5oag5DNO0mIat8A3MrJ8X5FdBn4LvucWIk=
+        skinName: semmaas
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1OTI2ODk3MzY4MywKICAicHJvZmlsZUlkIiA6ICJiZTdmMzAwNjkwOGI0NmUxOGVmMjg3ZmFmNmU4YTMwOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZW1NYWFzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIyNzIzMzg3ZGIyNmMxZGU3Nzk1NGViOWZiMzI2ZTFmMmNkNWM1NTQwOGVjNTEzZTQ0OTllMzlkMzlkZWYzOGIiCiAgICB9CiAgfQp9
+        updateSkins: false
+    traitnames: inventory,mounttrait,hologramtrait,scoreboardtrait,location,skintrait,spawned,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '75':
+    metadata:
+      cached-skin-uuid: be7f3006-908b-46e1-8ef2-87faf6e8a308
+      cached-skin-uuid-name: semmaas
+      removefromplayerlist: false
+    name: ''
+    uuid: 40821356-1a62-457b-b66a-9fd4c20d3801
+    traits:
+      spawned: true
+      location:
+        bodyYaw: 136.96054
+        world: map
+        x: '-953.5894'
+        y: '66.5'
+        z: '-1245.454'
+        yaw: '136.9605'
+        pitch: '0.0'
+      type: PLAYER
+      skintrait:
+        fetchDefaultSkin: true
+        signature: C74pbxSj7nuh1Env7EhSL3vnRhRA/WKxNK46+8WT8X2WSca9vtRhxyIA47Dbmv3kQX6KgoUhdkcXs/HQI2ZOu61hn3CewyCIvmhy/c3BV6jBx9geqLbTqwZCohcBMeFgEjGVP354U6Xknx2UYMoWCASp1VuA/njoKxvCIs/KwDfhL7PnDwAsUl6Nzf7ZMHfd6NF4tjIhmF1aXVCdIC3xAk/p98L6QCDFUw5lA33hGw7rPwEGBlLpWapqrJUoWmi7eKKboPORpom1muW9ahUI+864Xk0JTINlOjOemDtnKmeOYKIxcfeOG+E6fa9g/lmnaIsyEz8G6y4uOO27iyibRxjbYeQHFEj5kAFHIHwo+yum6dgbvEB/tjY0R9ETXx6gqKmlrXEer222hbo4CEwfOBonKG7cYBVCE0ZM/mwL+PyMRN8KgGY8OItYUxMzrIAykJzNCEgkkxGBS7bELgOdUJKqShA2kdaQx2cBsi3FUvF0LOxDBWfXsa80k/mROMwtPUPHyHRlB5JpkorNPCrbaiRSWiZhAguzqIrL9JoD5rzU0D6WoBruYjX1VM11kPor8ny810naCCYN0KsEK0RbgyOAMlhl5MsdV5ncZSSCKP8h244NNFZZgK8SiyB+cs4CSLOrov8Ad5oag5DNO0mIat8A3MrJ8X5FdBn4LvucWIk=
+        skinName: semmaas
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY1OTI2ODk3MzY4MywKICAicHJvZmlsZUlkIiA6ICJiZTdmMzAwNjkwOGI0NmUxOGVmMjg3ZmFmNmU4YTMwOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZW1NYWFzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIyNzIzMzg3ZGIyNmMxZGU3Nzk1NGViOWZiMzI2ZTFmMmNkNWM1NTQwOGVjNTEzZTQ0OTllMzlkMzlkZWYzOGIiCiAgICB9CiAgfQp9
+        updateSkins: false
+      invisible: true
+    traitnames: inventory,invisible,mounttrait,scoreboardtrait,location,spawned,skintrait,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '76':
+    metadata:
+      cached-skin-uuid: d8d5a923-7b20-43d8-883b-1150148d6955
+      cached-skin-uuid-name: test
+    name: test
+    uuid: 701cb88e-f849-43aa-96bb-1cf2e535c45d
+    traits:
+      waypoints:
+        linear:
+          cachePaths: false
+          cycle: false
+        provider: linear
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      location:
+        bodyYaw: 65.28914
+        world: map
+        x: '-736.0226'
+        y: '73.0'
+        z: '-750.6401'
+        yaw: '65.2891'
+        pitch: '10.5387'
+      type: PLAYER
+      skintrait:
+        fetchDefaultSkin: true
+        signature: B6mMCu/PWNX/fk7308W8F1LALvpv/zIt/wJIaH4sniyDsd+aYU7vfX7Qq4hL9O4epET/LCdTOoYLdfzmrkH0rUGbW/mx2sfYdKiCG/UPI4jnVSVZULXKhJt/URBGdhbHj+LwOt6eNhMuG0RC5lTLhgJV41q/XqlzJ9BgK5lOMm2xllTRaUsL5jr42q6aIUMQCSJ+aqa6NDuRWpteZlNeJSXaKd3747DMIFh8wMVodfLcLfcr+GvmW8oZiApw9d34bQFz0nAbUiQ1Y0LXKHqoArKpE6fuh2GkW6QWC8h9qyNYT7OJXVORLSgWlWl5kxnmkYQIIK0/ONARkiUjH/zYx0WwKfRQ2kN4Sq01w2zxf8dvGoHZXIDQ2N21pisL1gqPMLYvenZhmO4e6z1WRtC0K6aN6VixPD2WSgEmGY30sjWzqeJR5H07bXaJFeek24dQgJocQqwbpJwEU76/jFx+U44FYlxPVF8F1trsKTOaKrRUDvy3vY+j09NpZrD7IYh5FaONQFnfHKs5qXt8sPqRMryMru01w+GxzEdicgZIyTM/R5RFyvTPscFi1BJy++VBPaYW8KrER41b3N3UKhrCKhxBBeRPDpziFC+NTDuBCQuANMp2Zu7+N42+/ZPoECqliXf3xgqjsrW6ycJ1y4cFbN2iReF2eu0CCZhBVV0HQVE=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY2MTAwMzg0MzU3NCwKICAicHJvZmlsZUlkIiA6ICJkOGQ1YTkyMzdiMjA0M2Q4ODgzYjExNTAxNDhkNjk1NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZXN0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZjY2QyMjNkMjM5ZWYzOWZkMmRjM2E1MjFlYzkxNWRmNjU1MjQwYjZiNDFiMTZkYTNhZmUyZjg0MGE4OTA4NTEiCiAgICB9CiAgfQp9
+        updateSkins: false
+      spawned: true
+      age:
+        age: 0
+        locked: true
+    traitnames: inventory,owner,mounttrait,scoreboardtrait,location,skintrait,spawned,age,type,waypoints
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '77':
+    metadata:
+      cached-skin-uuid: 3abf172d-32a3-4582-9266-279c45a92f13
+      cached-skin-uuid-name: skylofit
+    name: §c[YOUTUBE] §fBOSS
+    uuid: 38d7c707-6fa3-4dfc-b830-9ff089d36c00
+    traits:
+      age:
+        age: 0
+        locked: true
+      type: PLAYER
+      hologramtrait:
+        direction: BOTTOM_UP
+        lineHeight: -1.0
+      skintrait:
+        fetchDefaultSkin: true
+        signature: S7fOyKKSz4YOqHx+NkDSf/okJXTnoye+K5b0cHxet1/tHA1zamHXzdu/sf799G4uh2AuzCIg203ndf5X45zD5kqRVbzdV7U9t0qbC12SlWqUyjFm9KcsTMAZQp3VmonjuX8vr+gHmXRzTt0sf+yIU/f4XvO8zm8HIpDc0P4U1F1D9LFUSMEd/aBcgaQBKrdiJJ+jo6AShceboidowlpR0cIrI+yevO5W23aZcXCBIBgpvTUqw9oz+JAXYQoENjUN2mVhmgglD5+hO6X+BDgt8o8IrdCZKVQJoSt9/rhTbLNcz/4OBQPv6EwMQqyu+SgXF5Hq71jbxa8MLZxl1hvCksMD2jQjGUeIBW2469XDJ+6l7SYA2lgUiE/8NbfzKpRtRLIIxA6s61oJZRqLJu0StAfJDrWp2cwJ0qqXOHeRbw4LmBUZ/CbDd4bjS5ZWG9rN3IoYOwcpFd79z45EhaHHva3ENwi9Pv3PiOFegMP/tLoIGvw/3pA3FFChEV92KERfXTzhViulIwpgWq3/Dq9Gaubzlq/2UkGJu15YQUGfDaY9iHLaZ6Oy7EkPDPbyrto+84m5EpjlEbTtxyK1YEN9tHzJJqXXHQq1LzEqeiETLEFqGW57tAVhUnPmvkLRtcztdHfc7F6vd3CLJLnes33i9e72IIvfykDOMHHj6ngj8Zw=
+        skinName: skylofit
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY2MTA3NDYzMjMzNCwKICAicHJvZmlsZUlkIiA6ICIzYWJmMTcyZDMyYTM0NTgyOTI2NjI3OWM0NWE5MmYxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3lsb2ZpdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85OGU4MTVlZDE1OThhNzI0NmFhYjIwZGU4YWVjODIwNjkxZGUxMjhiYTFkMmZkZWI5YjMzMzlmZTI1NmRjOTgzIgogICAgfQogIH0KfQ==
+        updateSkins: false
+      owner:
+        uuid: 2da32322-fa7b-4a0b-95a2-d804ce470784
+      location:
+        bodyYaw: 89.71997
+        world: map
+        x: '-949.185'
+        y: '242.5'
+        z: '-1302.4636'
+        yaw: '89.72'
+        pitch: '1.741'
+      spawned: true
+      skinlayers:
+        cape: true
+        hat: true
+        jacket: true
+        left-pants: true
+        left-sleeve: true
+        right-pants: true
+        right-sleeve: true
+    traitnames: inventory,owner,mounttrait,scoreboardtrait,hologramtrait,skinlayers,location,age,skintrait,spawned,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

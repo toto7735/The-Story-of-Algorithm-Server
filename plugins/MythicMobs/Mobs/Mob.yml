@@ -1,0 +1,19 @@
+# For more information, check out the plugin manual or join us on Discord:
+# http://www.mythicmobs.net
+#  
+
+Lv1_Zombie:
+  Type: ZOMBIE
+  Display: '&7[Lv.1] &fZombie'
+  Health: 2
+  Damage: 1
+  Equipment:
+  - LEATHER_HELMET HEAD
+  Drops:
+  - IRON_INGOT 1to2 1
+  Options:
+    MovementSpeed: 0.5
+    AlwaysShowName: true
+    PreventOtherDrops: true
+  Skills:
+  - skill{s=SmashAttack} @target
